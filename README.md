@@ -1,2 +1,2 @@
-# Zimbabwe exchange rates
- A visual of Zimbabwe's tumbling exchange rate
+# Zim exchange rates
+ Visual of the Zimbabwean dollar's tumbling exchange rate
