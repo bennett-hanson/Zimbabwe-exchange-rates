@@ -7,13 +7,14 @@
 	.st0{fill:#DAEBEE;}
 	.st1{font-family:'Poppins-Medium';}
 	.st2{font-size:16px;}
-	.st3{font-size:11px;}
+	.st3{font-family:'Poppins-Regular';}
+	.st4{font-size:11px;}
 </style>
 <rect y="0.4" class="st0" width="177.2" height="96.1"/>
-<text transform="matrix(1 0 0 1 45.1113 19.1187)" class="st1 st2">Feb. 10, 2022</text>
+<text transform="matrix(1 0 0 1 43.1113 19.1187)" class="st1 st2">Feb. 10, 2022</text>
 <text transform="matrix(1 0 0 1 9.5259 90.2659)" class="st1 st2">$1 : 119</text>
-<text transform="matrix(1 0 0 1 21.5259 39.5685)" class="st1 st3">The black market — how most</text>
-<text transform="matrix(1 0 0 1 21.5259 51.5685)" class="st1 st3">Zimbabweans access USD —</text>
-<text transform="matrix(1 0 0 1 21.5259 63.5685)" class="st1 st3">becomes twice as expensive.</text>
-<text transform="matrix(1 0 0 1 120.5359 90.3859)" class="st1 st2">$1 : 250</text>
+<text transform="matrix(1 0 0 1 21.5259 39.5685)" class="st3 st4">The black market — how most</text>
+<text transform="matrix(1 0 0 1 21.5259 51.5685)" class="st3 st4">Zimbabweans access USD —</text>
+<text transform="matrix(1 0 0 1 21.5259 63.5685)" class="st3 st4">becomes twice as expensive.</text>
+<text transform="matrix(1 0 0 1 113.5359 90.3859)" class="st1 st2">$1 : 250</text>
 </svg>

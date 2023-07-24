@@ -7,13 +7,14 @@
 	.st0{fill:#DAEBEE;}
 	.st1{font-family:'Poppins-Medium';}
 	.st2{font-size:16px;}
-	.st3{font-size:12px;}
-	.st4{fill:none;}
+	.st3{font-family:'Poppins-Regular';}
+	.st4{font-size:12px;}
+	.st5{fill:none;}
 </style>
 <rect x="-3.3" y="0.2" class="st0" width="183.9" height="86.9"/>
 <text transform="matrix(1 0 0 1 52.8729 24.5568)" class="st1 st2">Oct. 2018</text>
 <text transform="matrix(1 0 0 1 11.6129 81.7893)" class="st1 st2">$1 : 1</text>
-<text transform="matrix(1 0 0 1 7.8787 51.0919)" class="st1 st3">A new digital currency RTGS is introduced.</text>
+<text transform="matrix(1 0 0 1 7.8787 51.0919)" class="st3 st4">A new digital currency RTGS is introduced.</text>
 <text transform="matrix(1 0 0 1 122.6229 81.9093)" class="st1 st2">$1 : 2.2</text>
-<polygon class="st4" points="134,55.4 136.8,55.4 136.8,55.4 "/>
+<polygon class="st5" points="134,55.4 136.8,55.4 136.8,55.4 "/>
 </svg>

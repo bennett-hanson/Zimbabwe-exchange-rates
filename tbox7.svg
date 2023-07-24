@@ -7,14 +7,15 @@
 	.st0{fill:#DAEBEE;}
 	.st1{font-family:'Poppins-Medium';}
 	.st2{font-size:16px;}
-	.st3{font-size:12px;}
-	.st4{fill:none;}
+	.st3{font-family:'Poppins-Regular';}
+	.st4{font-size:12px;}
+	.st5{fill:none;}
 </style>
 <rect x="4.9" y="-0.1" class="st0" width="177.2" height="86.9"/>
-<text transform="matrix(1 0 0 1 51.2588 21.5333)" class="st1 st2">Nov. 16, 2021</text>
+<text transform="matrix(1 0 0 1 48.2588 21.5333)" class="st1 st2">Nov. 16, 2021</text>
 <text transform="matrix(1 0 0 1 8.6529 78.7659)" class="st1 st2">$1 : 106</text>
-<text transform="matrix(1 0 0 1 26.9669 41.0684)" class="st1 st3">The official exchange rate</text>
-<text transform="matrix(1 0 0 1 26.9669 55.4684)" class="st1 st3">surpasses $1 : 100.</text>
+<text transform="matrix(1 0 0 1 26.9669 41.0684)" class="st3 st4">The official exchange rate</text>
+<text transform="matrix(1 0 0 1 26.9669 55.4684)" class="st3 st4">surpasses $1 : 100.</text>
 <text transform="matrix(1 0 0 1 115.6629 78.8859)" class="st1 st2">$1 : 165</text>
-<polygon class="st4" points="131,52.4 133.8,52.4 133.8,52.4 "/>
+<polygon class="st5" points="131,52.4 133.8,52.4 133.8,52.4 "/>
 </svg>
