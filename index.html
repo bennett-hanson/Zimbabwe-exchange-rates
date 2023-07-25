@@ -372,6 +372,14 @@
         .attr("x2", 189)
         .attr("y2", 3925);
 
+        blackRatesChart.append("line")
+        .style("stroke", "black")
+        .style("stroke-width", 2)
+        .attr("x1", 29)
+        .attr("y1", 3423)
+        .attr("x2", 195)
+        .attr("y2", 3523);
+
     });
 
     // Step 4. load your data with d3.csv()
@@ -591,14 +599,6 @@
         .attr("width", 220)
         .attr("height", 130)
         .attr("href", "tbox6.svg");
-
-      blackRatesChart.append("line")
-        .style("stroke", "black")
-        .style("stroke-width", 2)
-        .attr("x1", 29)
-        .attr("y1", 3423)
-        .attr("x2", 195)
-        .attr("y2", 3523);
 
       blackRatesChart.append("line")
         .style("stroke", "black")
