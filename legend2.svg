@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 552.74 36.55">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Poppins-Regular, Poppins;
+        font-size: 14.4px;
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        fill: #e54149;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        fill: #efcb37;
+      }
+
+      .cls-4 {
+        fill: #2c9958;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2-2" data-name="Layer 2">
+    <g>
+      <rect class="cls-2" x="393.39" y="8.9" width="19.9" height="19.9"/>
+      <text class="cls-1" transform="translate(418.61 21.29)"><tspan x="0" y="0" xml:space="preserve"> value decreased</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-3" x="179.75" y="8.9" width="19.9" height="19.9"/>
+      <text class="cls-1" transform="translate(204.97 21.28)"><tspan x="0" y="0" xml:space="preserve"> value stayed the same</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-4" x="11.75" y="8.9" width="19.9" height="19.9"/>
+      <text class="cls-1" transform="translate(36.97 21.27)"><tspan x="0" y="0" xml:space="preserve"> value increased</tspan></text>
+    </g>
+    <rect class="cls-5" x=".5" y=".5" width="551.74" height="35.55"/>
+  </g>
+</svg>
