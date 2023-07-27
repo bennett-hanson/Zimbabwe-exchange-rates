@@ -27,7 +27,6 @@ __Skills I learned:__
 __If I had more time, I would explore:__
 - The impact of other important dates, policy changes, etc.
 - Compare the inflation trends and the exchange rate trends
--  
 
 ### Contact
 
