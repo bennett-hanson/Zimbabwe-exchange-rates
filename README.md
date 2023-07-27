@@ -12,9 +12,6 @@ __Questions I explored:__
 - What are the dates of important policy changes and how did they affect the exchange rates?
 - Are there any patterns?
 
-__Findings:__
-- 
-
 __Data collection methods:__
 - I used the historical exchange rate data collected by researchers at Zimpricecheck.com
 - I coded the data to show whether the exchange rate increased, decreased or stayed the same since the previous release
