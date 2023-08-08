@@ -1,7 +1,7 @@
 # Zim exchange rates
  A visual of the Zimbabwean dollar's tumbling exchange rate
 
-## Find my page here. https://bennett-gpj.github.io/Zimbabwe-exchange-rates/
+## Find my page here. https://bennett-hanson.github.io/Zimbabwe-exchange-rates/
 
 I wanted to visualize the experience of someone living in Zimbabwe and checking the daily changes in the exchange rate. I've been following the economic situation closely since 2018 when I began working at Global Press Journal, as several of my colleagues live and work in the country. This project was meant to serve as data analysis/pre-reporting, skills-building and will eventually supplement our coverage on the topic (click the link below to see award-winning graphic-novel-style piece from 2019 which I worked heavily on).
 https://globalpressjournal.com/africa/zimbabwe/alchemists-concocting-currency-search-prosperity/
